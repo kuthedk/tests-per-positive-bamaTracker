@@ -76,7 +76,7 @@ plt.title(
     size=8)
 plt.grid()
 plt.xlabel("Dates in 2020\n Data from https://www.bamatracker.com")
-plt.ylabel("Test per positive")
+plt.ylabel("Test per positive\n (higher is better)")
 plt.subplots_adjust(bottom=0.20)
 plt.legend()
 plt.show()
